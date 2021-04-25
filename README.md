@@ -1,5 +1,6 @@
 # Simple-Inventory-Management
-This is a Inventory Management coded using NodeJS and MonogoDB
+This is a Inventory Management coded using NodeJS and MonogoDB.
+<br>
 Here are some screenshots on executing server.js
 <img src='https://github.com/itsnikhilkumar29/Simple-Inventory-Management/blob/main/images/Screenshot%20(1531).png'>
 <img src='https://github.com/itsnikhilkumar29/Simple-Inventory-Management/tree/main/images/Screenshot%20(1532).png'>
